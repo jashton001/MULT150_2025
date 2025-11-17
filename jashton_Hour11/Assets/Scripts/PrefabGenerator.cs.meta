@@ -4,6 +4,7 @@ MonoImporter:
   externalObjects: {}
   serializedVersion: 2
   defaultReferences:
+  - streetLampPrefab: {fileID: 6223485623181614741, guid: 2f85f996cee481f45ac5ee696976e0ff, type: 3}
   - prefab: {fileID: 6223485623181614741, guid: 2f85f996cee481f45ac5ee696976e0ff, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
